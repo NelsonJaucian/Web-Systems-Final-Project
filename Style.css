@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  .center{ 
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(245, 239, 82);
+    padding; 10px;
+}
+  
+  header {
+    
+   
+    color: white;
+    padding: 20px;
+   //background-image: linear-gradient(gray, black);
+   background-image: url("computer.jpg");
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  article {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  footer {
+    //background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background-image: linear-gradient(black, gray);
+  }
+   
